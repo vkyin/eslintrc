@@ -1,0 +1,2 @@
+# eslintrc
+personal eslint file
