@@ -15,9 +15,7 @@ module.exports = {
         "ecmaVersion": 8
     },
     "globals": { //允许使用的全局变量
-        "MtaH5": true,
-        "router": true,
-        "mqq": true
+       
     },
     "rules": {
         //error
