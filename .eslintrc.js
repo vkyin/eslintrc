@@ -87,7 +87,7 @@ module.exports = {
             "after": true
         }],
         //文件末尾要插入一空行
-        "eol-last": "error",
+//         "eol-last": "error",
         //对象字面量的key中，冒号前不要空格，冒号后要有空格，而且只能有1个空格
         "key-spacing": ["warn", {
             "beforeColon": false,
